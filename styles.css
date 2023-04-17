@@ -1,2 +1,55 @@
-
 /* Your CSS Code here. */
+table, th, td {
+	border: 1px solid ;
+	width: 550px;
+	border-collapse: collapse;
+	text-align: left;
+	}
+td{
+	text-align: right;
+}
+thead{
+	background-color: #B22140;
+}
+#row1{
+	background-color: #C16C7E;
+}
+#row2{
+	background-color: #F7DEE3;
+}
+#row3{
+	background-color: #E7EEF0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
