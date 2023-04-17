@@ -1,6 +1,6 @@
 /* Your CSS Code here. */
 table, th, td {
-	border: 1px solid ;
+	border: 1px solid black;
 	width: 550px;
 	border-collapse: collapse;
 	text-align: left;
@@ -10,9 +10,11 @@ td{
 }
 thead{
 	background-color: #B22140;
+	color: white;
 }
 #row1{
 	background-color: #C16C7E;
+	color: white;
 }
 #row2{
 	background-color: #F7DEE3;
@@ -20,7 +22,9 @@ thead{
 #row3{
 	background-color: #E7EEF0;
 }
-
+.left{
+	text-align: left;
+}
 
 
 
